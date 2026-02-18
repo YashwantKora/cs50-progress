@@ -1,0 +1,21 @@
+# Compiled files
+*.out
+*.exe
+*.o
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# CS50 sandbox junk (if any)
+__pycache__/
+*.pyc
