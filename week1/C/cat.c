@@ -29,12 +29,12 @@ void meow1(int n);
 
 int main(void) {
     int n;
-    do {
-        printf("Number:\n");
-        scanf("%i", &n);
-    }while (n < 1);
+    // do {
+    //     printf("Number:\n");
+    //     scanf("%i", &n);
+    // }while (n < 1);
     
-    meow1(n);
+    meow1(2);
     return 0;
 }
 
